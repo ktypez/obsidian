@@ -1,3 +1,4 @@
+∆ [[HQ]] ✓
 ## Android
 [[ADB WIFI]]
 ###### App Language
