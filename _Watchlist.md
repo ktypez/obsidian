@@ -2,7 +2,7 @@
 
 ## Ongoing
 ```dataview
-TABLE season, episode, status, genre
+TABLE season, episode, genre
 FROM "DATABASE/Watchlist"
 SORT file.mtime desc
 WHERE status = "ongoing"
@@ -10,7 +10,7 @@ WHERE status = "ongoing"
 ---
 ## Finale
 ```dataview
-TABLE season, episode, status, genre
+TABLE season, episode, genre
 FROM "DATABASE/Watchlist"
 SORT file.mtime desc
 WHERE status = "Finale"
