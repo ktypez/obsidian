@@ -1,4 +1,6 @@
 [
   "homepage",
-  "dataview"
+  "dataview",
+  "templater-obsidian",
+  "remotely-save"
 ]

@@ -1,0 +1,6 @@
+---
+genre: 
+status: 
+season: 
+episode:
+---

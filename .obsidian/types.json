@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "creation date": "checkbox",
+    "read?": "checkbox",
+    "read": "checkbox",
+    "modified": "checkbox",
+    "append_modified_update": "checkbox",
+    "last modified": "text",
+    "t": "multitext",
+    "genre": "text"
+  }
+}
