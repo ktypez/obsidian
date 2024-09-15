@@ -42,3 +42,4 @@ adb usb
 
 ![[Pasted image 20240914012634.png]]
 
+#android #docs

@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "61b5e901daeb3ce6",
+        "id": "39d1e527f7058eef",
         "type": "tabs",
         "children": [
           {
-            "id": "6eecac1b9c49a4f0",
+            "id": "5eb2d0621d4e4ebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HQ.md",
+                "file": "Todo.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HQ.md",
+            "file": "Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "HQ.md",
+            "file": "Todo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "HQ.md"
+            "file": "Todo.md"
           }
         }
       }
@@ -129,16 +130,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "homepage:Open homepage": false
     }
   },
   "active": "4bb8f91ffe256cac",
   "lastOpenFiles": [
+    "HQ/HQ.md",
+    "Todo.md",
     "HQ/Documents/Documents.md",
     "HQ/Documents/Windows/WSL2 Firewall Fixed.md",
-    "HQ/Documents/Windows/Uninstall Offline Windows OS Drivers with Dism Command.md",
     "HQ/Documents/Android/ADB WIFI.md",
-    "HQ.md",
+    "HQ/Documents/Windows/Uninstall Offline Windows OS Drivers with Dism Command.md",
     "README.md"
   ]
 }

@@ -1,0 +1,4 @@
+- [x] remove led daylight line
+- [ ] change fuse
+- [ ] remove the keyless receiver
+- [ ] 

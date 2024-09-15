@@ -15,3 +15,5 @@ There are two possible solutions.
 
 1. Disable the experimental network adapter as mentioned by [@dbielik](https://github.com/dbielik) above. **(Recommended)**
 2. You can also rename the adapter `Rename-NetAdapter -name "vEthernet (WSL (Hyper-V firewall))" -newname "vEthernet (WSL)" -IncludeHidden`
+
+#windows #docs

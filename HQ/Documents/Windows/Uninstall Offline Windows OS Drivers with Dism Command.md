@@ -80,3 +80,5 @@ You can execute command as below to scroll through all of them.
 ```
 Dism /image:D:\\ /Get-Drivers | more
 ```
+
+#windows #docs
