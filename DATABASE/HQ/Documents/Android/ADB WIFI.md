@@ -1,4 +1,3 @@
-∆ [[HQ]] | [[Documents]] ✓
 
 ## **เปิดใช้งาน Debugging ผ่าน WiFi โดยใช้ ADB**
 

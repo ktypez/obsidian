@@ -1,4 +1,3 @@
-∆ [[HQ]] | [[Documents]] ✓
 
 It happens because the default WSL interface name is renamed from "vEthernet (WSL)" to "vEthernet (WSL (Hyper-V firewall))".
 
