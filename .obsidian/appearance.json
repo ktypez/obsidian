@@ -1,4 +1,6 @@
 {
-  "cssTheme": "Sakurajima",
-  "baseFontSize": 14
+  "cssTheme": "Playground",
+  "baseFontSize": 14,
+  "accentColor": "",
+  "theme": "system"
 }
