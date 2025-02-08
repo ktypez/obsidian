@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -152,12 +153,12 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "HQ.md",
-    "Notes/2024-09-18.md",
+    "DATABASE/HQ/Documents/Documents.md",
     "Manga Tracking.md",
     "DATABASE/Manga/Kaiju No.8.md",
+    "Notes/2024-09-18.md",
     "DATABASE/Manga/One Punch Man.md",
     "DATABASE/Manga/Dandadan.md",
-    "Watchlist.md",
-    "DATABASE/HQ/Documents/Documents.md"
+    "Watchlist.md"
   ]
 }
