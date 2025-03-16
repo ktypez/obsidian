@@ -1,10 +1,8 @@
-
-
----
 #### [[Documents]]
 #### [[Manga Tracking]]
 #### [[Watchlist]]
 
 ---
-## Non
+# Non
 
+[[Daily]]
