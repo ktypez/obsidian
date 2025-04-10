@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Light & Bright",
-  "baseFontSize": 14,
+  "cssTheme": "Sei",
+  "baseFontSize": 16,
   "accentColor": "#926eff",
-  "theme": "system"
+  "theme": "system",
+  "interfaceFontFamily": "CrackMan"
 }

@@ -32,7 +32,6 @@
     ""
   ],
   "startup_templates": [
-    "_TEMPLATES/Manga_Add.md",
-    "_TEMPLATES/Watchlist_Add.md"
+    "_TEMPLATES/Manga_Add.md"
   ]
 }
