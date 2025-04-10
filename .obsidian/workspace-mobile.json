@@ -15,7 +15,8 @@
               "state": {
                 "file": "HQ.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "HQ"
@@ -152,11 +153,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "HQ.md",
-    "DATABASE/HQ/Documents/Documents.md",
     "Manga Tracking.md",
-    "Daily.md",
+    "HQ.md",
+    "Notes.md",
+    "DATABASE/HQ/Documents/Documents.md",
+    "DATABASE/HQ/Documents/Windows/Uninstall Offline Windows OS Drivers with Dism Command.md",
+    "DATABASE/HQ/Documents/Windows/WSL2 Firewall Fixed.md",
+    "Notes/2025-04-10.md",
+    "Notes/2025-04-11.md",
     "Notes/2024-09-18.md",
+    "DATABASE/HQ/Documents/Android/ADB WIFI.md",
     "_TEMPLATES/Watchlist_Add.md",
     "Watchlist.md",
     "DATABASE/Manga/Dandadan.md",

@@ -7,8 +7,8 @@ adb shell settings put global settings_app_locale_opt_in_enabled false
 ```
 
 ## Windows
-[[Uninstall Offline Windows OS Drivers with Dism Command]]
-[[WSL2 Firewall Fixed]]
+- [[Uninstall Offline Windows OS Drivers with Dism Command]]
+- [[WSL2 Firewall Fixed]]
 
 ## Linux
 ###### Format blank disk

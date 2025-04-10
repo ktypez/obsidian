@@ -1,10 +1,11 @@
 
-You can uninstall the third party drivers from offline Windows Operating Systems using Command Prompt within Windows Recovery Environment.Uninstalling third party driver while Windows OS offline can be helpful in situations where Windows OS will not boot or have a Blue Screen Of Death (BSOD) because of a driver you have installed. Dism command can only be use with following operating systems:
-
-- **Windows 7**
-- **Windows 8**
-- **Windows 8.1**
-- **Windows 10**
+> [!info]
+> You can uninstall the third party drivers from offline Windows Operating Systems using Command Prompt within Windows Recovery Environment.Uninstalling third party driver while Windows OS offline can be helpful in situations where Windows OS will not boot or have a Blue Screen Of Death (BSOD) because of a driver you have installed. Dism command can only be use with following operating systems:
+> 
+> - **Windows 7**
+> - **Windows 8**
+> - **Windows 8.1**
+> - **Windows 10**
 
 Boot the computer into [Windows Recovery Environment](http://www.bleepingcomputer.com/tutorials/start-the-windows-7-recovery-environment/) and open the Command Prompt. Display information about all drivers in an offline operating system.
 

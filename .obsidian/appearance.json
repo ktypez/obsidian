@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Sei",
-  "baseFontSize": 16,
-  "accentColor": "#926eff",
+  "cssTheme": "Playground",
+  "baseFontSize": 18,
+  "accentColor": "",
   "theme": "system",
-  "interfaceFontFamily": "CrackMan"
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
 }
