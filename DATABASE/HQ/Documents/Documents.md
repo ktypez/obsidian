@@ -17,3 +17,6 @@ lsblk
 sudo mkfs.ntfs /dev/sdb1
 dd if=/dev/sdX of=/dev/null bs=1M
 ```
+
+## Python
+- [[Using http server]]
