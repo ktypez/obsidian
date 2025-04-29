@@ -1,11 +1,11 @@
 # Calendar
 ```dataview
 CALENDAR file.day
-FROM "Notes"
+FROM "Daily Notes"
 ```
 ### Last 7 day
 ```dataview
 List
-From "Notes"
+From "Daily Notes"
 Limit 7
 ```

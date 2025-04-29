@@ -1,8 +1,9 @@
 {
   "cssTheme": "Playground",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "accentColor": "",
   "theme": "system",
-  "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "interfaceFontFamily": "Noto Sans Thai",
+  "textFontFamily": "Noto Sans Thai",
+  "enabledCssSnippets": []
 }
