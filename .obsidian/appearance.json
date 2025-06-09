@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Playground",
+  "cssTheme": "Vesper",
   "baseFontSize": 16,
   "accentColor": "",
   "theme": "system",
-  "interfaceFontFamily": "Noto Sans Thai",
-  "textFontFamily": "Noto Sans Thai",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
   "enabledCssSnippets": []
 }

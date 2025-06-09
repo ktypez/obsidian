@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false,
+                "file": "HQ.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "HQ"
             }
           }
         ]
@@ -153,22 +153,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Daily Notes/2025-04-13.md",
-    "Notes.md",
+    "Daily Notes/2025-06-08.md",
     "HQ.md",
-    "Manga Tracking.md",
     "Daily Notes/2025-04-10.md",
+    "Notes.md",
+    "Manga Tracking.md",
+    "DATABASE/HQ/Documents/Documents.md",
+    "Hellow.md",
+    "Daily Notes/2025-04-13.md",
     "Daily Notes/2025-04-11.md",
     "_TEMPLATES/Daily_template.md",
     "Notes/2025-04-11.md",
-    "Hellow.md",
     "Hello.md",
     "+Daily Notes.md",
     "Notes/2025-04-9.md",
     "Notes/2025-04-10.md46591469332992",
     "DATABASE/Manga/Dandadan.md",
     "Daily.css",
-    "DATABASE/HQ/Documents/Documents.md",
     "DATABASE/HQ/Documents/Windows/Uninstall Offline Windows OS Drivers with Dism Command.md",
     "DATABASE/HQ/Documents/Windows/WSL2 Firewall Fixed.md",
     "Notes/2024-09-18.md",
