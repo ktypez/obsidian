@@ -1,6 +1,7 @@
 
 ## Android
 [[ADB WIFI]]
+[[Flash GSI]]
 ###### App Language
 ```
 adb shell settings put global settings_app_locale_opt_in_enabled false
