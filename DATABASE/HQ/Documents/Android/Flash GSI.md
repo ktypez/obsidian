@@ -4,6 +4,7 @@
 >  - Must have A/B partitioning or System-As-Root support
 >  - Must fit into ARM64 architecture requirement. (Future builds may include A64 support)
 >  - Must have at least VNDK28 support.
+
 1. Get [Platform Tools](https://developer.android.com/studio/releases/platform-tools#downloads)
 2. Get vbmeta.img from Stock ROM or [Google](https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img)
 3. Get Elixir GSI
@@ -38,10 +39,6 @@ fastboot flash system GSI-FILENAME.img
 
 ```
 fastboot flash product placebo.img
-```
-
-```
-fastboot flash system_ext placebo.img
 ```
 
 9. And try to flash GSI again

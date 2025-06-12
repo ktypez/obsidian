@@ -1,4 +1,4 @@
-## Pages
+ ## Pages
 -  [[Documents]]
 -  [[Manga Tracking]]
 ---
