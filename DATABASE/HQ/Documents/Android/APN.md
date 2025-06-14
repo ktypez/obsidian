@@ -24,3 +24,5 @@
  - MNC : 04
  - Type : mms
  - IPv4 , IPv4
+
+#android #docs 

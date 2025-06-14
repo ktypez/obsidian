@@ -3,7 +3,7 @@
 [[ADB WIFI]]
 [[Flash GSI]]
 [[APN]]
-###### App Language
+### App Language
 ```
 adb shell settings put global settings_app_locale_opt_in_enabled false
 ```
@@ -13,7 +13,7 @@ adb shell settings put global settings_app_locale_opt_in_enabled false
 - [[WSL2 Firewall Fixed]]
 
 ## Linux
-###### Format blank disk
+### Format blank disk
 ```
 lsblk
 sudo mkfs.ntfs /dev/sdb1

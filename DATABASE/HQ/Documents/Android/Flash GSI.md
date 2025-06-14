@@ -44,3 +44,5 @@ fastboot flash product placebo.img
 9. And try to flash GSI again
 10. Go back to recovery, then perform "Factory reset / Wipe data"
 11. Reboot and enjoy :D
+
+#android #docs 
