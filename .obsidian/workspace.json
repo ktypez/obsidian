@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABASE/HQ/Documents/Documents.md",
+                "file": "SHIT HAPPEN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Documents"
+              "title": "SHIT HAPPEN"
             }
           }
         ]
@@ -75,13 +75,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "right": {
     "id": "4989e053e7a4e861",
@@ -176,10 +174,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "DATABASE/HQ/Documents/Documents.md",
     "HQ.md",
     "SHIT HAPPEN.md",
     "DATABASE/HQ/Documents/Android/Flash GSI.md",
-    "DATABASE/HQ/Documents/Documents.md",
     "DATABASE/HQ/Documents/Android/APN.md",
     "Notes.md",
     "Manga Tracking.md",
