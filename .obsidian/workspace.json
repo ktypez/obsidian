@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHIT HAPPEN.md",
+                "file": "DATABASE/HQ/Documents/Android/Flash GSI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SHIT HAPPEN"
+              "title": "Flash GSI"
             }
           }
         ]
@@ -174,10 +174,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "DATABASE/HQ/Documents/Documents.md",
     "HQ.md",
-    "SHIT HAPPEN.md",
     "DATABASE/HQ/Documents/Android/Flash GSI.md",
+    "DATABASE/HQ/Documents/Documents.md",
+    "SHIT HAPPEN.md",
     "DATABASE/HQ/Documents/Android/APN.md",
     "Notes.md",
     "Manga Tracking.md",
