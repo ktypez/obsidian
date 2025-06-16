@@ -31,7 +31,15 @@ EvoX 10.3.1
 	- SHAMIKO
 	- Tricky + Addons
 	- PIF INJECT
-- 
+	**BROKEN**
+
+CrDroid 11.1 A15
+	MindTheGapps
+	- ReZygisk
+	- NoHello
+	- PIF INJECT
+	- Tricky + Addons
+	**FLAWLESS**
 
 
 
