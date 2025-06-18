@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABASE/HQ/Documents/Documents.md",
+                "file": "HQ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Documents"
+              "title": "HQ"
             }
           }
         ]
@@ -155,14 +155,15 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "HQ.md",
+    "Hellow.md",
+    "Invalid date.md",
+    "DATABASE/HQ/Documents/Documents.md",
     "Manga Tracking.md",
     "DATABASE/Manga/Kaiju No.8.md",
     "SHIT HAPPEN.md",
     "Daily Notes/2025-06-08.md",
     "Daily Notes/2025-04-10.md",
     "Notes.md",
-    "DATABASE/HQ/Documents/Documents.md",
-    "Hellow.md",
     "Daily Notes/2025-04-13.md",
     "Daily Notes/2025-04-11.md",
     "_TEMPLATES/Daily_template.md",
