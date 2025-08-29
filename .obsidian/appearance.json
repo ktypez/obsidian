@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Origami",
+  "cssTheme": "Baseline",
   "baseFontSize": 16,
-  "accentColor": "",
+  "accentColor": "#8866ba",
   "theme": "system",
   "interfaceFontFamily": "",
   "textFontFamily": "",
