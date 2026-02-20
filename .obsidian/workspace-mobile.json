@@ -85,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
     "id": "bc35b0ad3903156b",
@@ -155,18 +155,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Daily Notes/2025-08-30.md",
-    "HQ.md",
-    "Daily Notes/2025-04-10.md",
-    "Daily Notes/2025-04-11.md",
     "DATABASE/HQ/Documents/Documents.md",
+    "HQ.md",
+    "Notes.md",
+    "Untitled.base",
+    "DATABASE/Manga/One Punch Man.md",
+    "Daily Notes/2025-04-10.md",
+    "Manga Tracking.md",
+    "Daily Notes/2025-08-30.md",
+    "Daily Notes/2025-04-11.md",
     "Hellow.md",
     "Invalid date.md",
-    "Manga Tracking.md",
     "DATABASE/Manga/Kaiju No.8.md",
     "SHIT HAPPEN.md",
     "Daily Notes/2025-06-08.md",
-    "Notes.md",
     "Daily Notes/2025-04-13.md",
     "_TEMPLATES/Daily_template.md",
     "Notes/2025-04-11.md",
@@ -180,8 +182,6 @@
     "DATABASE/HQ/Documents/Windows/WSL2 Firewall Fixed.md",
     "Notes/2024-09-18.md",
     "DATABASE/HQ/Documents/Android/ADB WIFI.md",
-    "_TEMPLATES/Watchlist_Add.md",
-    "Watchlist.md",
-    "DATABASE/Manga/One Punch Man.md"
+    "_TEMPLATES/Watchlist_Add.md"
   ]
 }
