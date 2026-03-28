@@ -4,25 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "6048b0ef01c185d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "9e9658642944e448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HQ.md",
+                "file": "WORK - GO/Date/2026-03-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "HQ"
+              "title": "2026-03-28"
+            }
+          },
+          {
+            "id": "5eb7a6f6dc45043d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORK - GO/GO!.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "GO!"
+            }
+          },
+          {
+            "id": "17fd03ed31ebe4d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORK - GO/GO!.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "GO!"
+            }
+          },
+          {
+            "id": "a0fcd20f6b91a216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORK - GO/GO!.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "GO!"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +133,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "right": {
     "id": "bc35b0ad3903156b",
@@ -97,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HQ.md",
+            "file": "WORK - GO/GO!.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,39 +197,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a0fcd20f6b91a216",
   "lastOpenFiles": [
-    "DATABASE/HQ/Documents/Documents.md",
+    "WORK - GO/Date/2026-03-28.md",
+    "WORK - GO/GO!.md",
+    "_TEMPLATES/GO_template.md",
+    "_TEMPLATES/Manga_Add.md",
+    "_TEMPLATES/Daily_template.md",
+    "WORK - GO/2026-03-28.md",
+    "Manga/Manga Tracking.md",
+    "WORK - GO/Date",
     "HQ.md",
+    "WORK - GO",
+    "SHIT HAPPEN.md",
     "Notes.md",
+    "Documents/Documents.md",
+    "Documents/Android/Flash GSI.md",
+    "Manga/List",
     "Untitled.base",
-    "DATABASE/Manga/One Punch Man.md",
+    "Manga/List/One Punch Man.md",
     "Daily Notes/2025-04-10.md",
-    "Manga Tracking.md",
     "Daily Notes/2025-08-30.md",
     "Daily Notes/2025-04-11.md",
     "Hellow.md",
     "Invalid date.md",
-    "DATABASE/Manga/Kaiju No.8.md",
-    "SHIT HAPPEN.md",
+    "Manga/List/Kaiju No.8.md",
     "Daily Notes/2025-06-08.md",
     "Daily Notes/2025-04-13.md",
-    "_TEMPLATES/Daily_template.md",
     "Notes/2025-04-11.md",
     "Hello.md",
     "+Daily Notes.md",
     "Notes/2025-04-9.md",
     "Notes/2025-04-10.md46591469332992",
-    "DATABASE/Manga/Dandadan.md",
-    "Daily.css",
-    "DATABASE/HQ/Documents/Windows/Uninstall Offline Windows OS Drivers with Dism Command.md",
-    "DATABASE/HQ/Documents/Windows/WSL2 Firewall Fixed.md",
-    "Notes/2024-09-18.md",
-    "DATABASE/HQ/Documents/Android/ADB WIFI.md",
-    "_TEMPLATES/Watchlist_Add.md"
+    "Manga/List/Dandadan.md",
+    "Daily.css"
   ]
 }

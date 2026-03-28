@@ -1,6 +1,6 @@
 
 ```dataview
 TABLE chapter, status
-FROM "DATABASE/Manga"
+FROM "Manga/List"
 SORT file.mtime desc
 ```
