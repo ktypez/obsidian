@@ -1,4 +1,5 @@
 {
   "template": "_TEMPLATES/GO_template",
-  "folder": "WORK - GO/Date"
+  "folder": "WORK - GO/Date",
+  "format": "YYYY/MM/DD"
 }

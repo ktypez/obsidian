@@ -28,10 +28,7 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    ""
-  ],
-  "startup_templates": [
-    "_TEMPLATES/Manga_Add.md"
-  ]
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "intellisense_render": 1
 }

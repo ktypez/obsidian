@@ -1,6 +1,9 @@
+## March
 ```dataview
-TABLE length(file.lists) AS "Trucks"
+TABLE 
+    dv_Trucks AS "Trucks", 
+    choice(out AND in, out - in, "?") AS "ODO", 
+    OT
 FROM "WORK - GO/Date"
-SORT desc
-WHERE length(filter(file.lists, (l) => !l.task))
+SORT file.name DESC
 ```

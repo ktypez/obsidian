@@ -1,0 +1,16 @@
+summaries: {}
+formulas:
+  ODO: out - in
+  Trucks: count
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "WORK - GO/Date"
+    order:
+      - file.basename
+      - OT
+      - formula.ODO
+      - formula.Trucks
+    summaries: {}

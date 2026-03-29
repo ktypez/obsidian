@@ -6,6 +6,7 @@
     "status": "date",
     "out": "number",
     "in": "number",
-    "date": "date"
+    "date": "date",
+    "OT": "number"
   }
 }

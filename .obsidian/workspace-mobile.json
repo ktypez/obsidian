@@ -4,58 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6048b0ef01c185d2",
+        "id": "f0210184c8f4b7b4",
         "type": "tabs",
         "children": [
           {
-            "id": "9e9658642944e448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WORK - GO/Date/2026-03-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-28"
-            }
-          },
-          {
-            "id": "5eb7a6f6dc45043d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WORK - GO/GO!.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "GO!"
-            }
-          },
-          {
-            "id": "17fd03ed31ebe4d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WORK - GO/GO!.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "GO!"
-            }
-          },
-          {
-            "id": "a0fcd20f6b91a216",
+            "id": "f898df19d843a149",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +22,7 @@
               "title": "GO!"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,15 +152,23 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a0fcd20f6b91a216",
+  "active": "f898df19d843a149",
   "lastOpenFiles": [
-    "WORK - GO/Date/2026-03-28.md",
+    "WORK - GO/Date/2026/03/29.md",
     "WORK - GO/GO!.md",
+    "WORK - GO/Date/2026/03/28.md",
+    "WORK - GO/Date/2026-03-29.md",
+    "WORK - GO/Date/2026/03",
+    "WORK - GO/Date/2026",
     "_TEMPLATES/GO_template.md",
+    "GO.base",
+    "Untitled.base",
+    "Untitled.md",
+    "Manga/List/กิลด์ผู้ชาย.md",
+    "Manga/Manga Tracking.md",
     "_TEMPLATES/Manga_Add.md",
     "_TEMPLATES/Daily_template.md",
     "WORK - GO/2026-03-28.md",
-    "Manga/Manga Tracking.md",
     "WORK - GO/Date",
     "HQ.md",
     "WORK - GO",
@@ -217,7 +177,6 @@
     "Documents/Documents.md",
     "Documents/Android/Flash GSI.md",
     "Manga/List",
-    "Untitled.base",
     "Manga/List/One Punch Man.md",
     "Daily Notes/2025-04-10.md",
     "Daily Notes/2025-08-30.md",
@@ -228,11 +187,7 @@
     "Daily Notes/2025-06-08.md",
     "Daily Notes/2025-04-13.md",
     "Notes/2025-04-11.md",
-    "Hello.md",
-    "+Daily Notes.md",
-    "Notes/2025-04-9.md",
     "Notes/2025-04-10.md46591469332992",
-    "Manga/List/Dandadan.md",
     "Daily.css"
   ]
 }
