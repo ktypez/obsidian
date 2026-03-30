@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0210184c8f4b7b4",
+        "id": "a788dad6166a24a4",
         "type": "tabs",
         "children": [
           {
-            "id": "f898df19d843a149",
+            "id": "81b4e37fae974198",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK - GO/GO!.md",
-                "mode": "source",
+                "file": "WORK - GO/Date/2026/INDEX/03 - MARCH.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GO!"
+              "title": "03 - MARCH"
             }
           }
         ]
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "WORK - GO/GO!.md",
+            "file": "WORK - GO/Date/2026/INDEX/03 - MARCH.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,52 +142,50 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": true,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
+      "templater-obsidian:Templater": true,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f898df19d843a149",
+  "active": "81b4e37fae974198",
   "lastOpenFiles": [
-    "WORK - GO/Date/2026/03/29.md",
     "WORK - GO/GO!.md",
+    "WORK - GO/Date/2026/INDEX/01 - JANUARY.md",
+    "WORK - GO/Date/2026/INDEX/03 - MARCH.md",
+    "WORK - GO/Date/2026/03/30.md",
+    "WORK - GO/Date/2026/INDEX/12 - DECEMBER.md",
+    "WORK - GO/Date/2026/INDEX/11 - NOVEMBER.md",
+    "WORK - GO/Date/2026/INDEX/10 - OCTOBER.md",
+    "WORK - GO/Date/2026/INDEX/02 - FEBRUARY.md",
+    "WORK - GO/Date/2026/INDEX/07 - JULY.md",
+    "WORK - GO/Date/2026/INDEX/06 - JUNE.md",
+    "WORK - GO/Date/2026/INDEX/05 - MAY.md",
+    "WORK - GO/Date/2026/INDEX/04 - APRIL.md",
+    "WORK - GO/Date/2026/INDEX/08 - AUGUST.md",
+    "WORK - GO/Date/2026/INDEX",
+    "WORK - GO/Date/2026/INDEX/09 - SEPTEMBER.md",
+    "WORK - GO/Date/2026/03/22.md",
+    "WORK - GO/Date/2026/01",
+    "Snippet/Table dataview.md",
+    "WORK - GO/Date/2026/02",
+    "Snippet",
+    "WORK - GO/Date/2026/03/29.md",
+    "_TEMPLATES/GO_template.md",
     "WORK - GO/Date/2026/03/28.md",
+    "WORK - GO/Date/2026/03/21.md",
+    "WORK - GO/2026.base",
+    "Untitled.base",
     "WORK - GO/Date/2026-03-29.md",
     "WORK - GO/Date/2026/03",
     "WORK - GO/Date/2026",
-    "_TEMPLATES/GO_template.md",
     "GO.base",
-    "Untitled.base",
-    "Untitled.md",
     "Manga/List/กิลด์ผู้ชาย.md",
     "Manga/Manga Tracking.md",
     "_TEMPLATES/Manga_Add.md",
     "_TEMPLATES/Daily_template.md",
-    "WORK - GO/2026-03-28.md",
-    "WORK - GO/Date",
-    "HQ.md",
-    "WORK - GO",
-    "SHIT HAPPEN.md",
-    "Notes.md",
-    "Documents/Documents.md",
-    "Documents/Android/Flash GSI.md",
-    "Manga/List",
-    "Manga/List/One Punch Man.md",
-    "Daily Notes/2025-04-10.md",
-    "Daily Notes/2025-08-30.md",
-    "Daily Notes/2025-04-11.md",
-    "Hellow.md",
-    "Invalid date.md",
-    "Manga/List/Kaiju No.8.md",
-    "Daily Notes/2025-06-08.md",
-    "Daily Notes/2025-04-13.md",
-    "Notes/2025-04-11.md",
-    "Notes/2025-04-10.md46591469332992",
-    "Daily.css"
+    "WORK - GO/Date"
   ]
 }

@@ -2,8 +2,25 @@
 in:
 out:
 OT: 0
-dv_Trucks: 1
+trucks: 1
 ---
-Trucks:: `=length(this.file.lists)`
+```dataviewjs
+// 1. Get the current active file reliably
+const activeFile = app.workspace.getActiveFile();
+if (!activeFile) return;
 
+// 2. Read the file content
+const content = await app.vault.read(activeFile);
+
+// 3. Count bullets (lines starting with -, *, or +)
+const bulletCount = (content.match(/^[\t ]*[-*+] /gm) || []).length;
+
+// 4. Force update the 'trucks' property
+await app.fileManager.processFrontMatter(activeFile, (fm) => {
+    fm["trucks"] = bulletCount;
+});
+
+dv.span("🚚 Trucks property synced: " + bulletCount);
+```
+---
 - 

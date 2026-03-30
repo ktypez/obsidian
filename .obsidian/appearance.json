@@ -1,9 +1,10 @@
 {
-  "cssTheme": "Retroma",
-  "baseFontSize": 16,
+  "cssTheme": "Cyber Glow",
+  "baseFontSize": 14,
   "accentColor": "",
   "theme": "system",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "enabledCssSnippets": []
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "enabledCssSnippets": [],
+  "monospaceFontFamily": "Source Code Pro"
 }

@@ -1,0 +1,27 @@
+formulas:
+  ODO: out - in
+properties:
+  file.name:
+    displayName: Date
+  note.dv_Trucks:
+    displayName: Trucks
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("WORK - GO/Date/2026")
+    groupBy:
+      property: file.folder
+      direction: DESC
+    order:
+      - file.name
+      - dv_Trucks
+      - formula.ODO
+      - OT
+    sort:
+      - property: file.name
+        direction: DESC
+    summaries:
+      OT: Sum
+      dv_Trucks: Sum
