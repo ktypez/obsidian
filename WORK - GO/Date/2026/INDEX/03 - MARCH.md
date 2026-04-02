@@ -6,6 +6,7 @@ let pages = dv.pages('"WORK - GO/Date/2026/03"')
 // 2. Calculate the Totals (using .array() to ensure they are treatable as numbers)
 let totalOT = pages.OT.array().reduce((acc, val) => acc + (Number(val) || 0), 0);
 let totalTrucks = pages.trucks.array().reduce((acc, val) => acc + (Number(val) || 0), 0);
+let fileCount = pages.length;
 
 // 3. Prepare the rows and CONVERT to a standard array with .array()
 let rows = pages.map(p => [
@@ -22,7 +23,7 @@ rows.push([
     "", 
     `**${totalOT}**`
 ]);
-
 // 5. Render the Table
 dv.table(["Date", "Trucks", "ODO", "OT"], rows);
 ```
+

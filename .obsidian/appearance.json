@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Cyber Glow",
-  "baseFontSize": 14,
+  "cssTheme": "Novadust",
+  "baseFontSize": 16,
   "accentColor": "",
-  "theme": "system",
+  "theme": "obsidian",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "enabledCssSnippets": [],

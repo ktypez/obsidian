@@ -11,12 +11,13 @@ views:
     filters:
       and:
         - file.inFolder("WORK - GO/Date/2026")
+        - file.folder != "WORK - GO/Date/2026/INDEX"
     groupBy:
       property: file.folder
       direction: DESC
     order:
       - file.name
-      - dv_Trucks
+      - trucks
       - formula.ODO
       - OT
     sort:
