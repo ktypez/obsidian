@@ -3,8 +3,8 @@
   "baseFontSize": 16,
   "accentColor": "",
   "theme": "obsidian",
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
   "enabledCssSnippets": [],
   "monospaceFontFamily": "Source Code Pro"
 }
