@@ -8,24 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0614f013f99e86c7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documents/Documents.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Documents"
-            }
-          },
-          {
-            "id": "c71ca67d17e9bd04",
+            "id": "5737335703034b5f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -52,7 +35,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +162,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f48ffcc79dceeec0",
+  "active": "4d84d2b1229196c5",
   "lastOpenFiles": [
     "WORK - GO/GO!.md",
     "WORK - GO/2026.base",
@@ -215,6 +198,7 @@
     "Snippet",
     "Untitled.base",
     "WORK - GO/Date/2026/03",
-    "WORK - GO/Date/2026"
+    "WORK - GO/Date/2026",
+    "GO.base"
   ]
 }
